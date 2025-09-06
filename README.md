@@ -6,10 +6,9 @@ Este repositório foi criado para armazenar códigos, exercícios e experimentos
 ## 💡 Objetivo
 Organizar e compartilhar meus aprendizados e experimentos na área de sistemas móveis e embarcados, incluindo:
 - Aplicativos para Android e outros dispositivos móveis.
-- Programação de microcontroladores e sistemas embarcados.
 - Exercícios práticos e pequenos projetos de estudo.
 
-- 
+
 ##  Como usar
 - Navegue pelas pastas para encontrar exemplos ou exercícios específicos.
 - Sinta-se livre para clonar e adaptar os códigos para seus próprios estudos.
