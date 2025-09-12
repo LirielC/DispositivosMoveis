@@ -1,0 +1,16 @@
+<resources>
+    <string name="Calculadora">Aula3</string>
+    <string-array name="operacoes">
+        <item>Soma</item>
+        <item>Subtração</item>
+        <item>Multiplicação</item>
+        <item>Divisão</item>
+        <item>Exponenciação</item>
+        <item>Radiciação</item>
+    </string-array>
+    <string name="valor1">Valor 1:</string>
+    <string name="valor2">Valor 2:</string>
+    <string name="resultado">Resultado:</string>
+    <string name="selecionar_operacao">Selecionar Operação</string>
+    <string name="selecionar_decimais">Selecionar Decimais</string>
+</resources>
