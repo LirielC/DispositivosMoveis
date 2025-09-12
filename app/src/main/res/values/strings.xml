@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="Calculadora">Aula3</string>
     <string-array name="operacoes">
         <item>Soma</item>
@@ -13,4 +14,7 @@
     <string name="resultado">Resultado:</string>
     <string name="selecionar_operacao">Selecionar Operação</string>
     <string name="selecionar_decimais">Selecionar Decimais</string>
+=======
+    <string name="app_name">Aula1</string>
+>>>>>>> 794e6746bfe660a7837a711fd1a966a8a5fe963f
 </resources>
